@@ -1,5 +1,9 @@
 package modelos;
 import database.Conexion;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 
 public class Alumno {
@@ -68,6 +72,7 @@ public class Alumno {
 
 
     }
+    public Alumno() {}
 
 
     // REGISTRAR ALUMNO
@@ -134,4 +139,4 @@ public class Alumno {
     }
 
 }
-}
+
