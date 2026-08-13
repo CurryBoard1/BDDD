@@ -203,7 +203,61 @@ public class Alumno {
         }
 
     }
+
+
+    // ELIMINAR
+
+
+    public static void deleteByMatricula(String matricula) {
+
+        String sql = "DELETE FROM alumno WHERE matricula=?";
+
+        try (Connection con = Conexion.conectar();
+             PreparedStatement ps = con.prepareStatement(sql)) {
+
+            ps.setString(1, matricula);
+
+            ps.executeUpdate();
+
+            System.out.println("Alumno eliminado correctamente.");
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+
+
+    // CONTAR HOMBRES Y MUJERES
+
+
+    public static void countBySexo() {
+
+        String sql = "SELECT sexo, COUNT(*) AS total FROM alumno GROUP BY sexo";
+
+        try (Connection con = Conexion.conectar();
+             Statement st = con.createStatement();
+             ResultSet rs = st.executeQuery(sql)) {
+
+            while (rs.next()) {
+
+                System.out.println(
+                        "Sexo: " + rs.getString("sexo") +
+                                " | Total: " + rs.getInt("total")
+                );
+
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+    }
+
 }
+
+
 
 
 
