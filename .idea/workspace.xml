@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54f76d9f-f982-4bca-96de-00c55c20117b" name="Changes" comment="le cambié el puerto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CurryBoard1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CurryBoard1/BDDD.git&quot;,
+    &quot;accountId&quot;: &quot;fb6c712d-50fd-45a8-a976-7603b2608660&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000007" />
+      <entry key="S10" value="1.0000000239848723" />
+      <entry key="S30" value="1.002883893705885" />
+      <entry key="S60" value="1.0537564937932609" />
+      <entry key="M2" value="1.2465680301198723" />
+      <entry key="M5" value="2.2070160719340537" />
+      <entry key="M10" value="7.689397826336062" />
+      <entry key="M15" value="17.28564113057065" />
+      <entry key="M30" value="46.02276459263334" />
+      <entry key="H1" value="78.72581373905474" />
+      <entry key="H2" value="103.94056006493803" />
+      <entry key="H4" value="119.68544428300845" />
+      <entry key="D1" value="134.75143676228654" />
+      <entry key="W1" value="137.53086661869642" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7684375906440062" />
+      <entry key="MS500" value="0.9486843151404539" />
+      <entry key="S2" value="0.9869165458858419" />
+      <entry key="S5" value="0.9947459325778698" />
+      <entry key="S10" value="0.997369530411449" />
+      <entry key="S30" value="1.0020016986434692" />
+      <entry key="S60" value="1.0532747819709267" />
+      <entry key="M2" value="1.2462527801109256" />
+      <entry key="M5" value="2.206765039053996" />
+      <entry key="M10" value="7.688700147694354" />
+      <entry key="M15" value="17.28432299963151" />
+      <entry key="M30" value="46.02064353798362" />
+      <entry key="H1" value="78.72385580167844" />
+      <entry key="H2" value="103.93922295697308" />
+      <entry key="H4" value="119.68466206040173" />
+      <entry key="D1" value="134.7512880852085" />
+      <entry key="W1" value="137.53084489421136" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Hqk06mgGBrFenGWRNgfwd2WFgb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "EJ2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/WINDOWS11/IdeaProjects/BDDD/Ejercicio/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f76d9f-f982-4bca-96de-00c55c20117b" name="Changes" comment="" />
+      <created>1786602761049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786602761049</updated>
+      <workItem from="1786602762693" duration="5546000" />
+      <workItem from="1786608716344" duration="56000" />
+    </task>
+    <task id="LOCAL-00001" summary="la conexión">
+      <option name="closed" value="true" />
+      <created>1786603393762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786603393762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="clase alumno con sus atributos">
+      <option name="closed" value="true" />
+      <created>1786603693132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786603693132</updated>
+    </task>
+    <task id="LOCAL-00003" summary="getters y setters">
+      <option name="closed" value="true" />
+      <created>1786603835726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1786603835726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="metodo de registrar y buscar por matricula">
+      <option name="closed" value="true" />
+      <created>1786604047092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786604047092</updated>
+    </task>
+    <task id="LOCAL-00005" summary="metodo de registrar y buscar por matricula&#10;correji detallotes por que me faltó importarlos">
+      <option name="closed" value="true" />
+      <created>1786604427824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786604427825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="metodo de actualizar">
+      <option name="closed" value="true" />
+      <created>1786604654102</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786604654102</updated>
+    </task>
+    <task id="LOCAL-00007" summary="metodo para contar">
+      <option name="closed" value="true" />
+      <created>1786604760004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1786604760004</updated>
+    </task>
+    <task id="LOCAL-00008" summary="switch y fin">
+      <option name="closed" value="true" />
+      <created>1786605441963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1786605441963</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="la conexión" />
+    <MESSAGE value="clase alumno con sus atributos" />
+    <MESSAGE value="getters y setters" />
+    <MESSAGE value="metodo de registrar y buscar por matricula" />
+    <MESSAGE value="metodo de registrar y buscar por matricula&#10;correji detallotes por que me faltó importarlos" />
+    <MESSAGE value="metodo de mostrar todos" />
+    <MESSAGE value="metodo de actualizar" />
+    <MESSAGE value="metodo  eliminar" />
+    <MESSAGE value="metodo para contar" />
+    <MESSAGE value="creación del menú e imports" />
+    <MESSAGE value="switch y fin" />
+    <MESSAGE value="le cambié el puerto" />
+    <option name="LAST_COMMIT_MESSAGE" value="le cambié el puerto" />
+  </component>
+</project>
