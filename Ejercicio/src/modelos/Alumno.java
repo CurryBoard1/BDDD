@@ -4,6 +4,9 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class Alumno {
@@ -138,5 +141,69 @@ public class Alumno {
 
     }
 
+    // MOSTRAR TODOS
+
+
+    public static ArrayList<Alumno> getAll() {
+
+        ArrayList<Alumno> lista = new ArrayList<>();
+
+        String sql = "SELECT * FROM alumno";
+
+        try (Connection con = Conexion.conectar();
+             Statement st = con.createStatement();
+             ResultSet rs = st.executeQuery(sql)) {
+
+            while (rs.next()) {
+
+                Alumno alumno = new Alumno();
+
+                alumno.setId(rs.getInt("id"));
+                alumno.setMatricula(rs.getString("matricula"));
+                alumno.setNombre(rs.getString("nombre"));
+                alumno.setEdad(rs.getInt("edad"));
+                alumno.setSexo(rs.getString("sexo"));
+                alumno.setCorreo(rs.getString("correo"));
+
+                lista.add(alumno);
+
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return lista;
+
+    }
+
+    // ============================
+    // ACTUALIZAR
+    // ============================
+
+    public void update() {
+
+        String sql = "UPDATE alumno SET nombre=?,edad=?,sexo=?,correo=? WHERE matricula=?";
+
+        try (Connection con = Conexion.conectar();
+             PreparedStatement ps = con.prepareStatement(sql)) {
+
+            ps.setString(1, nombre);
+            ps.setInt(2, edad);
+            ps.setString(3, sexo);
+            ps.setString(4, correo);
+            ps.setString(5, matricula);
+
+            ps.executeUpdate();
+
+            System.out.println("Alumno actualizado correctamente.");
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+    }
 }
+
+
 
